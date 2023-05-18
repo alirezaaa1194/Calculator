@@ -2,6 +2,7 @@
   margin: 0;
   transition: 0.5s;
   font-family: "Roboto", sans-serif;
+  user-select: none;
 }
 body {
   background-color: rebeccapurple;
